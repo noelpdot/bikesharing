@@ -1,4 +1,4 @@
-# bikesharing Startup
+# bikesharing Startup - Des Moines
 an analysis to explore Citi bike-share data from New York city to explore possibilites and options to implement and initiate a bike-sharing start up for Des Moines.
 
 ## Purpose:

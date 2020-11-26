@@ -8,6 +8,7 @@ __pycache__/
 # Book1.twd
 # Tableau-BiikeSharing.twd
 # Tableau-BiikeSharingerror.twd
+*.csv
 
 # C extensions
 *.so

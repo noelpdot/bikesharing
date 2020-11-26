@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Other files
+201908-citibike-tripdata.hyper
+# Book1.twd
+# Tableau-BiikeSharing.twd
+# Tableau-BiikeSharingerror.twd
+
 # C extensions
 *.so
 
